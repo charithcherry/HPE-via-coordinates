@@ -1,6 +1,6 @@
 # HPE-via-coordinates
 
-## Human pose detection via coordinates 
+## Human pose detection via angles 
 
 ## Yoga poses addded
 #### Warrior II Pose
