@@ -2,7 +2,7 @@
 
 ## Human pose detection via coordinates 
 
-### Yoga poses addded
+## Yoga poses addded
 #### Warrior II Pose
 #### T Pose
 #### Tree Pose
