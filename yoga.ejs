@@ -1,0 +1,61 @@
+<%- include('partials/header'); %>
+
+
+<script type="module" src="./js/yogadet.js"></script>
+</head>
+
+<body>
+<div class="loader">
+  <span class="loader__element"></span>
+  <span class="loader__element"></span>
+  <span class="loader__element"></span>
+</div>
+
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col col-lg-6">
+
+      <div class="card" style="height: 480px;width: 435px;">
+
+        <div class="card-header">
+           INPUT WINDOW
+        </div>
+        <div class="card-body">
+        <video class="input_video"></video>
+        </div>
+      </div>
+    </div>
+    <div class="col col-lg-6">
+        <div class="card" style="height: 480px;width: 435px;">
+          <div class="card-header">
+             OUTPUT WINDOW
+          </div>
+          <div class="card-body">
+    
+            <canvas class="output_canvas" width="400px" height="400px"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+</div>
+<hr>
+
+  
+    <!-- <button id="report">Report</button> -->
+    <p id="pose"></p>
+
+   
+                <p id="error">Try till you get the pose right</p>
+                
+                
+       
+     
+      
+    
+</body>
+</html>
