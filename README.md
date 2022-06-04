@@ -9,3 +9,7 @@
 #### Trikonasana
 #### Ardha chandrasana
 #### Parsvakonasana
+#### Plank Pose 
+#### Urdhva Hastasana
+#### Sunbird Pose
+#### Bhujangasana
